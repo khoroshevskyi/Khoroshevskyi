@@ -15,7 +15,7 @@ jobs:
           gh_token_stats: ${{ secrets.TOKEN_STATS }}
           gh_token_commits: ${{ secrets.TOKEN_STATS }}
           badge_path: assets/badge.svg
-          header: "👋 hi there"
-          about: "Python 🐍 developer"
+          header: "Hi there👋  , I am"
+          about: "I am Python 🐍 developer, interested in software development, database management and bioinformatics. 🧘‍♂"
           commit_message: This is generated badge
           theme: tropical-sunset
