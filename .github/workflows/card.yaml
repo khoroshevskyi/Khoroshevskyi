@@ -13,7 +13,7 @@ jobs:
         with:
           username: khoroshevskyi
           gh_token_stats: ${{ secrets.TOKEN_STATS }}
-          gh_token_commits: ${{ secrets.GITHUB_TOKEN }}
+          gh_token_commits: ${{ secrets.TOKEN_STATS }}
           badge_path: assets/badge.svg
           header: "👋 hi there"
           about: "Python 🐍 developer"
