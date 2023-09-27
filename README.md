@@ -1,5 +1,5 @@
 ### Ahoy 👋
-I am Oleksandr Khoroshevskyi, and I am Python developer🐍 and bioinformatician 🧬
+I am Alex, and I am Python developer🐍 and bioinformatician 🧬
 
 <a href="https://github.com/khoroshevskyi">
   <img align="center" src="./assets/badge.svg" />
